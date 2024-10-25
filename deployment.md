@@ -117,4 +117,4 @@ To apply the update, run:
 docker-compose -f docker-compose-deploy.yml up --no-deps -d app
 ```
 
-The `--no-deps -d` ensures that the dependant services (such as `proxy`) do not restart.
+The `--no-deps -d` ensures that the dependant services (such as `proxy`) do not restart.s
